@@ -1,0 +1,21 @@
+.h1{
+    text-align: center;
+    color: rgb(216, 76, 76);
+}
+.btn{
+    background-color: darkturquoise;
+    color: white;
+    border-radius: 5px;
+}
+
+.mytext{
+    color: rgb(102, 34, 45) !important;
+}
+
+div{
+    padding: 10px;
+    border: deeppink solid;
+    margin: 10px;
+}
+
+.
